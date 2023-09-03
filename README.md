@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ClemSK
-- 👀 I’m interested in web dev and all things JavaScript / TypeScript. 
-- 🌱 I’m currently learning how to build an ecommerce platform with SolidStart.JS and Postgres.
-- 💞️ I’m looking to collaborate on a podcast (maybe), it's a back burner idea.
-- 📫 How to reach me: clemskyn@gmail.com
+- 👀 I’m interested in back-end, web-dev and all things Python, TypeScript, Go and C#. 
+- 🌱 I’m currently building a web scraping API with python 🐍 / 🥧(pie)🩴(thong).
 
 <!---
 ClemSK/ClemSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
